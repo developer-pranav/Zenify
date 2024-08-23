@@ -13,14 +13,14 @@ Zenify is a sleek and modern digital clock application designed for simplicity a
 
 ## Live Preview
 
-You can view a live preview of SpeedyBites [here](https://developer-pranav.github.io/Zenify/index.html).
+You can view a live preview of Zenify [here](https://developer-pranav.github.io/Zenify/index.html).
 
 ## Installation
 
 1. Clone the repository:
     ```bash
     git clone https://github.com/developer-pranav/Zenify.git
-    cd SpeedyBites
+    cd Zenfiy
     ```
 
 2. Open the `index.html` file in your web browser.
