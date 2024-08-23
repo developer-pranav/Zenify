@@ -1,0 +1,26 @@
+{
+    "greetings": [
+      {
+        "id": 1,
+        "time": "Morning",
+        "greeting": "Wishing you a fresh and productive start to your day!",
+        "start": "3:00",
+        "end": "11:59"
+      },
+      {
+        "id": 2,
+        "time": "Afternoon",
+        "greeting": "Hope your day is going smoothly and you're staying motivated!",
+        "start": "12:00",
+        "end": "16:59"
+      },
+      {
+        "id": 3,
+        "time": "Evening",
+        "greeting": "Relax and unwind, you've earned it after a long day!",
+        "start": "17:00",
+        "end": "4:59"
+      }
+    ]
+  }
+  

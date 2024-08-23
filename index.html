@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lobster&family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/64a9282fb2.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Zenify | Aesthetic Clock</title>
+</head>
+<body>
+    
+    <div class="bg"></div>
+    <main>
+        <nav>
+            <h1>Zenify</h1>
+            <button onclick="openSettings()"><i class="fa-solid fa-sliders"></i></button>
+        </nav>
+        <h5 id="greet"></h5>
+        <h2 id="time"></h2>
+        <div></div>
+        <button onclick="fullScreen()" title="FullScreen(F)" aria-keyshortcut="f"><i id="full-btn" class="fa-solid fa-expand"></i></button>
+
+        <!-- <i class="fa-solid fa-minimize"></i> -->
+
+    </main>
+    <div class="overlay">
+        <div id="settings">
+            <div id="set-title">
+                <button id="saveData" onclick="save()"><i class="fa-solid fa-check"></i></button>
+                <h4>Settings</h4>
+                <button onclick="closeSettings()" id="cancel"><i class="fa-solid fa-times"></i></button>
+            </div>
+            <div id="settings-list">
+                <h5>General</h5>
+                <ul id="general-settings">
+                    <li>
+                        <p>Your Name:</p>
+                        <input type="text" id="userName">
+                    </li>
+                    <li>
+                        <p>Keyboard Shortcuts</p>
+                        <button onclick="alert('F2 for Fullscreen \nF4 to Open/Close Settings')">open</button>
+                    </li>
+                </ul>
+                <button id="contact" onclick="contact()">
+                    Contact a Developer
+                </button>
+            </div>
+            <div id="set-footer">
+                <p>Created By Developer Pranav</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <script src="js/clock.js"></script>
+    <script src="js/full-screen.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
