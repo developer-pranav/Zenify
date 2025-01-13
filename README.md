@@ -10,7 +10,7 @@ Zenify is a sleek and modern digital clock application designed for simplicity a
 
 ## Screenshot
 
-![Zenify Preview](mockup.png)
+![Zenify Preview](.png)
 
 ## Live Preview
 
