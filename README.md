@@ -2,21 +2,28 @@
 
 Zenify is a sleek and modern digital clock application designed for simplicity and clarity. It provides a fullscreen view that helps you stay punctual with minimal distraction. With its elegant design and easy-to-read display, Zenify Clock makes managing time effortless and visually appealing.
 
-## Features
+## 🚀 Features
 
 - **Full Screen Clock**:  Displays a large, clear clock in fullscreen mode.
 - **Greet you**: Shows a custom greeting message based on the time of day (e.g., "Good Morning," "Good Afternoon," "Good Evening")
 - **Feel Relaxed**: Provides a distraction-free environment to help users stay focused and relaxed.
 
-## Screenshot
+## 📸 Screenshot
 
 ![Zenify Preview](mockup.png)
 
-## Live Preview
+## 🌐 Live Preview
 
 You can view a live preview of Zenify [here](https://developer-pranav.github.io/Zenify/index.html).
 
-## Installation
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## 💾 Installation
 
 1. Clone the repository:
     ```bash
@@ -27,17 +34,11 @@ You can view a live preview of Zenify [here](https://developer-pranav.github.io/
 2. Open the `index.html` file in your web browser.
 
 
-## Dependencies
-
-- HTML
-- CSS
-- JavaScript
-
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
-## Contributing
+## 🤝 Contributing
 
 Want to contribute? Follow these steps:
 
@@ -49,6 +50,6 @@ Want to contribute? Follow these steps:
 
 We appreciate your contributions!
 
-## Contact
+## 📞 Contact
 
-For any questions or suggestions, please open an issue or contact [Developer-Pranav](mailto:developer.pranav3306@gmail.com).
+For any questions or suggestions, please open an issue or contact [Developer Pranav](mailto:developer.pranav3306@gmail.com).
