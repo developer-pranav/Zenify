@@ -8,6 +8,9 @@ Zenify is a sleek and modern digital clock application designed for simplicity a
 - **Greet you**: Shows a custom greeting message based on the time of day (e.g., "Good Morning," "Good Afternoon," "Good Evening")
 - **Feel Relaxed**: Provides a distraction-free environment to help users stay focused and relaxed.
 
+## Screenshot
+
+![Zenify Preview](mockup.png)
 
 ## Live Preview
 
